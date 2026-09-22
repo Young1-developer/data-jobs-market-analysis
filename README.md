@@ -81,7 +81,7 @@ Ranks the top hiring countries. The **United States** overwhelmingly leads posti
 ---
 
 ## 🚀 How to Use This Report
-1. Download `screenshoots/data-jb-dash.png`.
+1. Download `dataset/data-jobs-dash.pbix`.
 2. Open it in **Power BI Desktop** (free download from Microsoft).
 3. Use any slicers/filters on the report to drill into specific titles, countries, or platforms (if included in your version of the report).
 
